@@ -1,0 +1,7 @@
+php5-yaml (1.1.1-1) jessie-amasty; urgency=low
+
+  * Initial Release.
+  * Built against PHP 5.5.12+dfsg-2
+
+ -- Andrey Tataranovich <tataranovich@gmail.com>  Tue, 24 Feb 2015 12:55:07 +0300
+

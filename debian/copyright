@@ -1,0 +1,20 @@
+This package was debianized by Andrey Tataranovich <tataranovich@gmail.com> using dh-make-pecl
+on Tue, 24 Feb 2015 12:55:07 +0300.
+
+It was downloaded from http://pecl.php.net/package/yaml
+
+Upstream Author(s):
+
+    Bryan Davis
+
+Copyright:
+
+    Copyright (C) 2013 Bryan Davis
+
+License:
+
+    Array
+
+The Debian packaging is copyright 2009, Andrey Tataranovich <tataranovich@gmail.com> and
+is licensed under the GPL, see `/usr/share/common-licenses/GPL'.
+
